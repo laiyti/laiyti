@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there / こんにちは / 你好👋
+I am Yi-Ting, currently a master's student in Business Analytics at the University of Maryland, US.
 
+Data enthusiastic / Trilingual🇹🇼🇺🇸🇯🇵
+
+Love coffee ☕️, reading 📖, and nature 🌱.
 <!--
 **laiyti/laiyti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
