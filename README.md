@@ -1,4 +1,5 @@
-###I am Yi-Ting, currently a master's student in Business Analytics at the University of Maryland, US.
+### 
+I am Yi-Ting, currently a master's student in Business Analytics at the University of Maryland, US.
 
 Data enthusiastic / Trilingual🇹🇼🇺🇸🇯🇵
 <!--
